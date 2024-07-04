@@ -1,0 +1,9 @@
+<svg baseProfile="tiny" height="256px" version="1.2" width="256px" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <circle cx="128" cy="128" r="128" fill="black" height="100%" width="100%" x="0" y="0" />
+  <text fill="white" font-family="Arial" font-size="82" x="35" y="154">x</text>
+  <text fill="white" font-family="Arial" font-size="180" x="75" y="186">L</text>
+  <text fill="white" font-family="Arial" font-size="82" x="122" y="154">t</text>
+  <text fill="white" font-family="Arial" font-size="82" x="145" y="154">t</text>
+  <text fill="white" font-family="Arial" font-size="82" x="164" y="154">r</text>
+  <text fill="white" font-family="Arial" font-size="82" x="183" y="154">y</text>
+</svg>
