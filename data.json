@@ -22,24 +22,6 @@
     "expectedProfitPerEach": "968원(세금 포함)"
   },
   {
-    "speettoType": "Speetto2000",
-    "updateDate": "2024-07-12",
-    "name": "스피또2000 54회",
-    "returnRateForDisplay": "판매점 입고율",
-    "returnRate": "100%",
-    "remainTotalForDisplay": "전체 잔여 수량",
-    "estimatedRemainIssues": "0만 장(추정치)",
-    "firstPrizeForDisplay": "1등(10억원) 잔여 수량",
-    "remainFirst": "4 장",
-    "secondPrizeForDisplay": "2등(1억원) 잔여 수량",
-    "remainSecond": "5 장",
-    "thirdPrizeForDisplay": "3등(1천만원) 잔여 수량",
-    "remainThird": "63 장",
-    "forthPrizeForDisplay": "4등(2만원) 잔여 수량",
-    "estimatedRemainForth": "0 장(추정치)",
-    "expectedProfitPerEach": "∞원(세금 포함)"
-  },
-  {
     "speettoType": "Speetto1000",
     "updateDate": "2024-07-12",
     "name": "스피또1000 83회",
