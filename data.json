@@ -1,16 +1,16 @@
 [
   {
     "speettoType": "Speetto2000",
-    "updateDate": "2024-07-26",
+    "updateDate": "2024-07-29",
     "name": "스피또2000 55회",
     "returnRateForDisplay": "판매점 입고율",
     "returnRate": 35,
     "remainTotalForDisplay": "전체 잔여 수량(추정치)",
     "estimatedRemainIssues": "1,950만 장",
     "firstPrizeForDisplay": "1등(10억원) 잔여 수량",
-    "remainFirst": "6 장",
+    "remainFirst": "4 장",
     "secondPrizeForDisplay": "2등(1억원) 잔여 수량",
-    "remainSecond": "16 장",
+    "remainSecond": "13 장",
     "thirdPrizeForDisplay": "3등(1천만원) 잔여 수량",
     "remainThird": "145 장",
     "forthPrizeForDisplay": "4등(2만원) 잔여 수량",
@@ -19,12 +19,12 @@
     "estimatedRemainFifth": "136,078 장(추정치)",
     "sixthPrizeForDisplay": "6등(2천원) 잔여 수량",
     "estimatedRemainSixth": "5,416,666 장(추정치)",
-    "expectedProfitPerEach": "1,102원",
-    "goodToBuyIndex": 55
+    "expectedProfitPerEach": "984원",
+    "goodToBuyIndex": 49
   },
   {
     "speettoType": "Speetto1000",
-    "updateDate": "2024-07-26",
+    "updateDate": "2024-07-29",
     "name": "스피또1000 84회",
     "returnRateForDisplay": "판매점 입고율",
     "returnRate": 28,
@@ -45,7 +45,7 @@
   },
   {
     "speettoType": "Speetto500",
-    "updateDate": "2024-07-26",
+    "updateDate": "2024-07-29",
     "name": "스피또500 45회",
     "returnRateForDisplay": "판매점 입고율",
     "returnRate": 37,
