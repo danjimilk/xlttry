@@ -8,9 +8,9 @@
     "remainTotalForDisplay": "전체 잔여 수량(추정치)",
     "estimatedRemainIssues": "300만 장",
     "firstPrizeForDisplay": "1등(10억원) 잔여 수량",
-    "remainFirst": "4 장",
+    "remainFirst": "2 장",
     "secondPrizeForDisplay": "2등(1억원) 잔여 수량",
-    "remainSecond": "10 장",
+    "remainSecond": "9 장",
     "thirdPrizeForDisplay": "3등(1천만원) 잔여 수량",
     "remainThird": "77 장",
     "forthPrizeForDisplay": "4등(2만원) 잔여 수량",
@@ -19,8 +19,8 @@
     "estimatedRemainFifth": "20,935 장(추정치)",
     "sixthPrizeForDisplay": "6등(2천원) 잔여 수량",
     "estimatedRemainSixth": "833,333 장(추정치)",
-    "expectedProfitPerEach": "2,561원",
-    "goodToBuyIndex": 128
+    "expectedProfitPerEach": "1,861원",
+    "goodToBuyIndex": 93
   },
   {
     "speettoType": "Speetto2000",
@@ -44,6 +44,27 @@
     "estimatedRemainSixth": "750,000 장(추정치)",
     "expectedProfitPerEach": "864원",
     "goodToBuyIndex": 43
+  },
+  {
+    "speettoType": "Speetto1000",
+    "updateDate": "2025-05-02",
+    "name": "스피또1000 95회",
+    "returnRateForDisplay": "판매점 입고율",
+    "returnRate": 0,
+    "remainTotalForDisplay": "전체 잔여 수량(추정치)",
+    "estimatedRemainIssues": "4,500만 장",
+    "firstPrizeForDisplay": "1등(5억원) 잔여 수량",
+    "remainFirst": "10 장",
+    "secondPrizeForDisplay": "2등(2천만원) 잔여 수량",
+    "remainSecond": "50 장",
+    "thirdPrizeForDisplay": "3등(1만원) 잔여 수량",
+    "remainThird": "275,000 장",
+    "forthPrizeForDisplay": "4등(5천원) 잔여 수량",
+    "estimatedRemainForth": "1,125,000 장",
+    "fifthPrizeForDisplay": "5등(1천원) 잔여 수량",
+    "estimatedRemainFifth": "13,636,363 장(추정치)",
+    "expectedProfitPerEach": "622원",
+    "goodToBuyIndex": 62
   },
   {
     "speettoType": "Speetto1000",
