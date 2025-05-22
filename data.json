@@ -10,7 +10,7 @@
     "firstPrizeForDisplay": "1등(10억원) 잔여 수량",
     "remainFirst": "2 장",
     "secondPrizeForDisplay": "2등(1억원) 잔여 수량",
-    "remainSecond": "4 장",
+    "remainSecond": "3 장",
     "thirdPrizeForDisplay": "3등(1천만원) 잔여 수량",
     "remainThird": "51 장",
     "forthPrizeForDisplay": "4등(2만원) 잔여 수량",
@@ -19,8 +19,8 @@
     "estimatedRemainFifth": "20 장(추정치)",
     "sixthPrizeForDisplay": "6등(2천원) 잔여 수량",
     "estimatedRemainSixth": "833 장(추정치)",
-    "expectedProfitPerEach": "970,635원",
-    "goodToBuyIndex": 48531
+    "expectedProfitPerEach": "937,302원",
+    "goodToBuyIndex": 46865
   },
   {
     "speettoType": "Speetto2000",
@@ -75,7 +75,7 @@
     "remainTotalForDisplay": "전체 잔여 수량(추정치)",
     "estimatedRemainIssues": "0.45만 장",
     "firstPrizeForDisplay": "1등(5억원) 잔여 수량",
-    "remainFirst": "4 장",
+    "remainFirst": "3 장",
     "secondPrizeForDisplay": "2등(2천만원) 잔여 수량",
     "remainSecond": "18 장",
     "thirdPrizeForDisplay": "3등(1만원) 잔여 수량",
@@ -84,8 +84,8 @@
     "estimatedRemainForth": "112 장",
     "fifthPrizeForDisplay": "5등(1천원) 잔여 수량",
     "estimatedRemainFifth": "1,363 장(추정치)",
-    "expectedProfitPerEach": "757,582원",
-    "goodToBuyIndex": 75758
+    "expectedProfitPerEach": "646,471원",
+    "goodToBuyIndex": 64647
   },
   {
     "speettoType": "Speetto1000",
